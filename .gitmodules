@@ -1,0 +1,3 @@
+[submodule "pyUpEA"]
+	path = pyUpEA
+	url = https://github.com/EmmerichFrog/pyUpEA
